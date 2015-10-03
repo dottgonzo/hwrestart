@@ -18,6 +18,6 @@
     "url": "https://github.com/dottgonzo/hwrestart/issues"
   },
   "dependencies": {
-    "verbo": "0.0.4"
+    "verbo": "0.0.6"
   }
 }
