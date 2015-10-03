@@ -3,15 +3,15 @@ verb = require('verbo');
 
 module.exports = {
   restart: function() {
-verbo("restarting","warning","HWrestart")
+verb("restarting","warning","HWrestart")
 exec("reboot");
   },
   force: function() {
-verbo("force reboot","warning","HWrestart")
+verb("force reboot","warning","HWrestart")
 exec("sync && reboot -f")
   },
   unplug: function() {
-verbo("unplug","warning","HWRestart")
+verb("unplug","warning","HWRestart")
 exec("reboot -f");
   }
 };
