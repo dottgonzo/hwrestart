@@ -1,5 +1,5 @@
 var exec = require('child_process').exec,
-verb = require('verb');
+verb = require('verbo');
 
 module.exports = {
   restart: function() {
