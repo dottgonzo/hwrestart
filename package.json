@@ -17,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/dottgonzo/hwrestart/issues"
   },
-  "dependencies": {}
+  "dependencies": {
+    "verbo": "0.0.4"
+  }
 }
