@@ -1,3 +1,3 @@
-var hwrestart=require('hwrestart');
+var hwrestart=require('../index.js');
 
-hwrestart.reboot();
+hwrestart.restart();
