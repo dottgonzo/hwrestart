@@ -16,5 +16,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dottgonzo/hwrestart/issues"
-  }
+  },
+  "dependencies": {}
 }
